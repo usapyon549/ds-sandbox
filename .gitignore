@@ -1,3 +1,29 @@
+
+# catboostの学習ファイル
+**/catboost_info/
+
+# 環境ファイル系
+.env
+
+# personal memo
+**/メモ.txt
+**/memo.txt
+**/tmp.txt
+
+# 一時的なメモフォルダ
+**/tmp/
+
+# Raw data
+**/data/
+
+# mlflow系
+**/mlruns/
+**/mlflow.db
+**/mlflow.db-journal
+
+# SageMaker Studio Lab / Jupyter のバックアップ
+.ipynb_checkpoints/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
