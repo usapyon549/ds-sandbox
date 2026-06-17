@@ -16,6 +16,9 @@
 # Raw data
 **/data/
 
+#出力ファイル
+output/
+
 # mlflow系
 **/mlruns/
 **/mlflow.db
