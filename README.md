@@ -24,7 +24,10 @@ Notebook ベースの小規模な分析や実験が中心で、データ分析�
 日本語フェイクニュースデータセットを用いた分類モデルの比較  
 [リンク](projects/003-fakenews-classification/README.md)
 
-
 ### 004-ecommerce-analysis
-ecサイトの購買データセットを用いたRFM/MBA分析
+ecサイトの購買データセットを用いたRFM/MBA分析  
 [リンク](projects/004-ecommerce-analysis/README.md)
+
+### 005-nasa-randomized-battery-usage
+リチウムイオン電池の充放電データセットを用いた時系列予測モデルの構築  
+[リンク](projects/005-nasa-randomized-battery-usage/README.md)
