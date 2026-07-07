@@ -31,3 +31,8 @@ ecサイトの購買データセットを用いたRFM/MBA分析
 ### 005-nasa-randomized-battery-usage
 リチウムイオン電池の充放電データセットを用いた時系列予測モデルの構築  
 [リンク](projects/005-nasa-randomized-battery-usage/README.md)
+
+### 006-census-income
+Adult Census Income データセットを用いて予測モデル作成の際の欠損値補完の検証  
+[リンク](projects/006-census-income/README.md)
+
