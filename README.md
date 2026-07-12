@@ -36,3 +36,6 @@ ecサイトの購買データセットを用いたRFM/MBA分析
 Adult Census Income データセットを用いて予測モデル作成の際の欠損値補完の検証  
 [リンク](projects/006-census-income/README.md)
 
+### 007-telco-customer-churn  
+通信サービス契約者データを用いた顧客解約予測(チャーン予測)とSHAPによるモデル解釈  
+[リンク](projects/007-telco-customer-churn/README.md)

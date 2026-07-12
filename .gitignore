@@ -5,10 +5,17 @@
 # 環境ファイル系
 .env
 
+# 画像
+**/figs/
+**/fig/
+**/pics/
+**_pic/
+
 # personal memo
 **/メモ.txt
 **/memo.txt
 **/tmp.txt
+**/memo/
 
 # 一時的なメモフォルダ
 **/tmp/
