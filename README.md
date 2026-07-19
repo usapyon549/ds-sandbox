@@ -39,3 +39,7 @@ Adult Census Income データセットを用いて予測モデル作成の際の
 ### 007-telco-customer-churn  
 通信サービス契約者データを用いた顧客解約予測(チャーン予測)とSHAPによるモデル解釈  
 [リンク](projects/007-telco-customer-churn/README.md)
+
+### 008-beijing-multi-site-air-quality
+北京市12観測地点の大気汚染データを用いた、NGBoostによる将来のPM2.5予測と予測の不確実性（確率分布）の推定  
+[リンク](projects/008-beijing-multi-site-air-quality/README.md)
