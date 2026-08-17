@@ -6,7 +6,7 @@ portfolio や ml-lab のような完成度を重視したプロジェクトと�
 
 Notebook ベースの小規模な分析や実験が中心で、データ分析、機械学習、LLMなど幅広いテーマを扱います。
 
-主に Amazon SageMaker Studio Lab と Google Colab を利用したクラウド環境で検証を行っています。
+ローカル環境に加え、主に Amazon SageMaker Studio Lab、 Google Colab、 Kaggle Notebookなどのクラウド環境でも検証を行っています。
 
 ---
 
@@ -47,5 +47,10 @@ Adult Census Income データセットを用いて予測モデル作成の際の
 ### **009-ecommerce-funnel-analysis**
 大規模ECデータを用いた、Polarsによる簡易ファネル分析  
 [リンク](projects/009-ecommerce-funnel-analysis/README.md)
+
+### **010-portfolio-optimisation**  
+yfinance で取得した複数銘柄の価格データを用いて、CVXPY による制約付きポートフォリオ最適化の試行  
+[リンク](projects/010-portfolio-optimisation/README.md)
+
 
 
