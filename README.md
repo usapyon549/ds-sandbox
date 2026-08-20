@@ -52,5 +52,8 @@ Adult Census Income データセットを用いて予測モデル作成の際の
 yfinance で取得した複数銘柄の価格データを用いて、CVXPY による制約付きポートフォリオ最適化の試行  
 [リンク](projects/010-portfolio-optimisation/README.md)
 
+### **011-linear-programming**
+線形計画問題（LP）と混合整数線形計画法（MILP）を用いた、工場の生産計画最適化。  
+[リンク](projects/011-linear-programming/README.md)
 
 
