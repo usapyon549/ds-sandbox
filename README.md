@@ -6,7 +6,7 @@ portfolio や ml-lab のような完成度を重視したプロジェクトと�
 
 Notebook ベースの小規模な分析や実験が中心で、データ分析、機械学習、LLMなど幅広いテーマを扱います。
 
-ローカル環境に加え、主に Amazon SageMaker Studio Lab、 Google Colab、 Kaggle Notebookなどのクラウド環境でも検証を行っています。
+ローカル環境に加え、Amazon SageMaker Studio Lab、 Google Colab、 Kaggle Notebookなどのクラウド環境でも検証を行っています。
 
 ---
 
@@ -16,7 +16,7 @@ Notebook ベースの小規模な分析や実験が中心で、データ分析�
 毒キノコデータセットを用いた分類モデル比較  
 [リンク](projects/001-mushroom-classification/README.md)
 
-### **002-wine-quality**
+### **002-wine-quality-modelling**
 ワインの化学成分データセットを用いた回帰・分類モデルの比較  
 [リンク](projects/002-wine-quarity/README.md)
 
@@ -56,4 +56,6 @@ yfinance で取得した複数銘柄の価格データを用いて、CVXPY に�
 線形計画問題（LP）と混合整数線形計画法（MILP）を用いた、工場の生産計画最適化。  
 [リンク](projects/011-linear-programming/README.md)
 
-
+### **012-dry-bean-classification**
+UCI Dry Bean Datasetを用いた、特徴量生成・特徴量選択・次元削減手法の比較実験。  
+[リンク](projects/012-dry-bean-classification/README.md)

@@ -6,7 +6,7 @@
 .env
 
 # 画像
-**/figs/
+# **/figs/
 **/fig/
 **/pics/
 **_pic/
