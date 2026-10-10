@@ -59,3 +59,7 @@ yfinance で取得した複数銘柄の価格データを用いて、CVXPY に�
 ### **012-dry-bean-classification**
 UCI Dry Bean Datasetを用いた、特徴量生成・特徴量選択・次元削減手法の比較実験。  
 [リンク](projects/012-dry-bean-classification/README.md)
+
+### **013-movie-review-classification-with-LIME**
+映画レビューのポジションネガティヴ分類と、LIMEによる単語の影響度の確認。  
+[リンク](projects/013-movie-review-classification-with-LIME/README.md)
