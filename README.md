@@ -2,7 +2,7 @@
 
 機械学習・データサイエンスを中心とした技術検証用リポジトリです。
 
-portfolio や ml-lab のような完成度を重視したプロジェクトとは異なり、興味を持ったテーマや技術を気軽に試しながら学習記録として残すことを目的としています。
+[portfolio](https://github.com/usapyon549/portfolio) や [ml-lab](https://github.com/usapyon549/ml-lab) のような一定の完成度を重視したプロジェクトとは異なり、興味を持ったテーマや技術を気軽に試しながら学習記録として残すことを目的としています。
 
 Notebook ベースの小規模な分析や実験が中心で、データ分析、機械学習、LLMなど幅広いテーマを扱います。
 
@@ -63,3 +63,7 @@ UCI Dry Bean Datasetを用いた、特徴量生成・特徴量選択・次元削
 ### **013-movie-review-classification-with-LIME**
 映画レビューのポジションネガティヴ分類と、LIMEによる単語の影響度の確認。  
 [リンク](projects/013-movie-review-classification-with-LIME/README.md)
+
+### **014-amazon-computers-node-classification-with-GNN**
+Amazon Computersデータセットを用いたノード分類と、LightGBM・GCN・GATの性能比較。  
+[リンク](projects/014-amazon-computers-node-classification-with-GNN/README.md)
