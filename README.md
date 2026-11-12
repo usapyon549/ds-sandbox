@@ -2,7 +2,7 @@
 
 機械学習・データサイエンスを中心とした技術検証用リポジトリです。
 
-[portfolio](https://github.com/usapyon549/portfolio) や [ml-lab](https://github.com/usapyon549/ml-lab) のような一定の完成度を重視したプロジェクトとは異なり、興味を持ったテーマや技術を気軽に試しながら学習記録として残すことを目的としています。
+[portfolio](https://github.com/usapyon549/portfolio) や [ml-lab](https://github.com/usapyon549/ml-lab) のような一定の完成度でまとめたプロジェクトとは異なり、興味を持ったテーマや技術を気軽に試しながら学習記録として残すことを目的としています。
 
 Notebook ベースの小規模な分析や実験が中心で、データ分析、機械学習、LLMなど幅広いテーマを扱います。
 
@@ -53,17 +53,22 @@ yfinance で取得した複数銘柄の価格データを用いて、CVXPY に�
 [リンク](projects/010-portfolio-optimisation/README.md)
 
 ### **011-linear-programming**
-線形計画問題（LP）と混合整数線形計画法（MILP）を用いた、工場の生産計画最適化。  
+線形計画問題（LP）と混合整数線形計画法（MILP）を用いた、工場の生産計画最適化  
 [リンク](projects/011-linear-programming/README.md)
 
 ### **012-dry-bean-classification**
-UCI Dry Bean Datasetを用いた、特徴量生成・特徴量選択・次元削減手法の比較実験。  
+UCI Dry Bean Datasetを用いた、特徴量生成・特徴量選択・次元削減手法の比較実験  
 [リンク](projects/012-dry-bean-classification/README.md)
 
 ### **013-movie-review-classification-with-LIME**
-映画レビューのポジションネガティヴ分類と、LIMEによる単語の影響度の確認。  
+映画レビューのポジションネガティヴ分類と、LIMEによる単語の影響度の確認  
 [リンク](projects/013-movie-review-classification-with-LIME/README.md)
 
 ### **014-amazon-computers-node-classification-with-GNN**
-Amazon Computersデータセットを用いたノード分類と、LightGBM・GCN・GATの性能比較。  
+Amazon Computersデータセットを用いたノード分類と、LightGBM・GCN・GATの性能比較  
 [リンク](projects/014-amazon-computers-node-classification-with-GNN/README.md)
+
+### **015-walking-isochrone-analysis**
+OSMnxとNetworkXを用いた徒歩の到達圏分析の試行   
+[リンク](projects/015-isochrone-analysis/README.md)
+
