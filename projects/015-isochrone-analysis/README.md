@@ -8,6 +8,10 @@ OSMnxとNetworkXを用いた徒歩の到達圏分析の試行。
 
 OSMnxで道路ネットワークを取得し、NetworkXで出発地点からの到達可能な範囲を計算。その結果をFoliumで地図上に表示した。
 
+## Data Source
+
+Map data © OpenStreetMap contributors (ODbL)
+
 ## Target
 
 今回は、東京都調布市の調布駅周辺を対象とした。
@@ -57,7 +61,8 @@ Foliumを使用して地図上に表示し、徒歩5分圏・10分圏・15分圏
 
 調布駅を出発地点とした徒歩5分・10分・15分の到達圏を可視化した。
 
-![調布駅を中心とした徒歩到達圏](./figs/isochrone_map.png)
+![調布駅を中心とした徒歩到達圏](./figs/isochrone_map.png)  
+Map data © OpenStreetMap contributors (ODbL)
 
 インタラクティブな地図のhtmlデータは、[こちら](interactive_map.html)。
 
