@@ -10,7 +10,9 @@ OSMnxで道路ネットワークを取得し、NetworkXで出発地点からの�
 
 ## Data Source
 
-Map data © OpenStreetMap contributors (ODbL)
+Map data © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors ([ODbL](https://opendatacommons.org/licenses/odbl/))
+
+[地理院タイルに徒歩到達圏を追記して掲載](https://www.gsi.go.jp/LAW/2930-meizi.html)
 
 ## Target
 
@@ -63,8 +65,7 @@ Foliumを使用して地図上に表示し、徒歩5分圏・10分圏・15分圏
 
 ![調布駅を中心とした徒歩到達圏](./figs/isochrone_map.png)  
 Map data © OpenStreetMap contributors (ODbL)
-
-インタラクティブな地図のhtmlデータは、[こちら](interactive_map.html)。
+[地理院タイルに徒歩到達圏を追記して掲載](https://www.gsi.go.jp/LAW/2930-meizi.html)
 
 ## Findings
 
